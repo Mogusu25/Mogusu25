@@ -1,7 +1,7 @@
 <h1>Hi, I'm Maikara Mogusu!<br/>
-Data Scientist | Python & Pandas Expert | Google Colab & Kaggle Practitioner</h1>
+Data Scientist and Analyst | Proficient in Python, Pandas, SQL, and Excel | Experienced with Google Colab and Kaggle Projects</h1>
 
-<p>By leveraging Python, Pandas, Excel, Google Colab, and Kaggle, I analyze complex data, derive actionable insights, and provide effective solutions to real problems.</p>
+<p>I'm a Data Scientist and Analyst with strong skills in Python, Pandas, SQL, and Excel, and hands-on experience developing projects using various tools</p>
 
 ---
 
