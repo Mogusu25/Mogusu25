@@ -5,7 +5,7 @@ Data Scientist | Python & Pandas Expert | Google Colab & Kaggle Practitioner</h1
 
 ---
 
-<h2>🧠 Core Skills & Expertise:</h2>
+<h2>Core Skills & Expertise:</h2>
 
 <ul>
   <li><b>Python Programming</b> — proficient in data manipulation, scripting, and automation</li>
@@ -17,16 +17,16 @@ Data Scientist | Python & Pandas Expert | Google Colab & Kaggle Practitioner</h1
 
 ---
 
-<h2>📂 Featured Projects</h2>
+<h2> Featured Projects</h2>
 
-<h3>📊 Project 1: Data Cleaning Practice (Google Colab)</h3>
+<h3> Project 1: Data Cleaning Practice (Google Colab)</h3>
 <ul>
   <li><b>Tools:</b> Python, Pandas, Google Colab</li>
   <li><b>Description:</b> Cleaning and transforming CSV data to extract actionable insights using Pandas</li>
   <li><b>Notebook:</b> <a href="https://colab.research.google.com/drive/1XU4EJYGJ0vQ8Lk68xbuidBmwBdhKtpvX" target="_blank">View on Colab</a></li>
 </ul>
 
-<h3>📈 Project 2: Netflix Movies and TV Shows</h3>
+<h3> Project 2: Netflix Movies and TV Shows</h3>
 <ul>
   <li><b>Status:</b> Ongoing</li>
   <li><b>Goal:</b> Analyze real-world datasets to build insightful visualizations and models</li>
@@ -35,13 +35,13 @@ Data Scientist | Python & Pandas Expert | Google Colab & Kaggle Practitioner</h1
 
 ---
 
-<h2>📫 Connect with Me</h2>
+<h2> Connect with Me</h2>
 
 <p>Let’s connect and collaborate:</p>
 
-- 📧 Email: maikaramogusu@gmail.com 
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/maikara-mogusu" target="_blank">linkedin.com/in/maikara-mogusu</a>  
-- 🧠 Kaggle: <a href="https://www.kaggle.com/yourusername" target="_blank">kaggle.com/maikaramogusu</a>  
+-  Email: maikaramogusu@gmail.com 
+-  LinkedIn: <a href="https://www.linkedin.com/in/maikara-mogusu" target="_blank">linkedin.com/in/maikara-mogusu</a>  
+-  Kaggle: <a href="https://www.kaggle.com/yourusername" target="_blank">kaggle.com/maikaramogusu</a>  
 
 ---
 
