@@ -1,5 +1,5 @@
 <h1>Hi, I'm Maikara Mogusu!<br/>
-Data Scientist and Analyst | Proficient in Python, Pandas, SQL, and Excel | Experienced with Google Colab and Kaggle Projects</h1>
+Data Scientist and Analyst | Proficient in Python, Pandas, SQL, and Excel | </h1>
 
 <p>I'm a Data Scientist and Analyst with strong skills in Python, Pandas, SQL, and Excel, and hands-on experience developing projects using various tools</p>
 
