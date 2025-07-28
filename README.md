@@ -1,5 +1,5 @@
 <h1>Hi, I'm Maikara Mogusu!<br/>
-Data Scientist and Analyst | Proficient in Python, Pandas, SQL, Power BI and Excel | </h1>
+Data Scientist and Analyst | Proficient in Python, Pandas, SQL, Power BI,Tableu and Excel | </h1>
 
 <p>I'm a Data Scientist and Analyst with strong skills in Python, Pandas, SQL, and Excel, and hands-on experience developing projects using various tools</p>
 
@@ -19,30 +19,53 @@ Data Scientist and Analyst | Proficient in Python, Pandas, SQL, Power BI and Exc
 
 <h2> Featured Projects</h2>
 
-<h3> Project 1: Data Cleaning Practice (Google Colab)</h3>
-<ul>
-  <li><b>Tools:</b> Python, Pandas, Google Colab</li>
-  <li><b>Description:</b> Cleaning and transforming CSV data to extract actionable insights using Pandas</li>
-  <li><b>Notebook:</b> <a href="https://colab.research.google.com/drive/1XU4EJYGJ0vQ8Lk68xbuidBmwBdhKtpvX" target="_blank">View on Colab</a></li>
-</ul>
+## 📊 Featured Projects
 
-<h3> Project 2: Netflix Movies and TV Shows</h3>
-<ul>
-  <li><b>Status:</b> Ongoing</li>
-  <li><b>Goal:</b> Analyze real-world datasets to build insightful visualizations and models</li>
-  <li><b>Profile:</b> <a href="https://www.kaggle.com/yourusername" target="_blank">My Kaggle Projects</a></li>
-</ul>
+### 🏠 House Price Prediction with Simple Linear Regression
+- **Tools Used:** Python, Pandas, Scikit-learn, Google Colab  
+- **Description:**  
+  This project explored how house size (in square feet) relates to its selling price. It involved loading and preparing data, applying simple linear regression using Scikit-learn, training the model, and making predictions.  
+  While the task seemed mathematically simple, the real value came in learning the end-to-end workflow: from data preparation to interpretation of regression coefficients.  
+- 📓 [View Notebook on Colab](https://colab.research.google.com/drive/1nwNPKGLtDDCFI6SeOTEP_D2cN16yX-Sf?usp=sharing)
 
 ---
 
-<h2> Connect with Me</h2>
-
-<p>Let’s connect and collaborate:</p>
-
--  Email: maikaramogusu@gmail.com 
--  LinkedIn: <a href="https://www.linkedin.com/in/maikara-mogusu" target="_blank">linkedin.com/in/maikara-mogusu</a>  
--  Kaggle: <a href="https://www.kaggle.com/yourusername" target="_blank">kaggle.com/maikaramogusu</a>  
+### 🌐 Web Scraping with Python and BeautifulSoup
+- **Tools Used:** Python, Requests, BeautifulSoup, Google Colab  
+- **Description:**  
+  In this project, I practiced web scraping techniques using Python libraries to extract structured data from websites. I learned how to send HTTP requests, parse HTML content, and extract useful information for analysis and visualization.  
+  This was a hands-on exercise in automating data collection for real-world web pages.  
+- 📓 [View Notebook on Colab](https://colab.research.google.com/drive/1XU4EJYGJ0vQ8Lk68xbuidBmwBdhKtpvX?usp=sharing)
 
 ---
+
+### 🏘️ California Housing Price Prediction (KNN Regression & Pipeline)
+- **Tools Used:** Python, Pandas, Scikit-learn, GridSearchCV, Google Colab  
+- **Description:**  
+  In this project, I worked on predicting housing prices using the California Housing dataset. I implemented a complete ML workflow using K-Nearest Neighbors (KNN) regression:
+  - Loaded and explored the dataset  
+  - Built a preprocessing pipeline  
+  - Performed train-test split  
+  - Tuned hyperparameters using GridSearchCV with 5-fold cross-validation  
+  - Evaluated performance using R² and RMSE  
+  - Saved the best model  
+  This enhanced my understanding of end-to-end machine learning, including model tuning and deployment practices.  
+- 📓 [View Notebook on Colab](https://colab.research.google.com/drive/1V5XSRV_jCMuZFKB1ghf5q5ldtIkXWSQy?usp=sharing)
+
+---
+
+### 🍷 Wine Quality Classification with 6 ML Algorithms
+- **Tools Used:** Python, Pandas, Scikit-learn, Google Colab  
+- **Description:**  
+  In this project, I applied and compared six classification algorithms on the Wine dataset from Scikit-learn:
+  - Logistic Regression  
+  - Decision Tree  
+  - Random Forest  
+  - k-Nearest Neighbors (KNN)  
+  - Naive Bayes  
+  - Support Vector Machine (SVM)  
+  I performed data exploration, preprocessing, training, and evaluation using metrics like accuracy, confusion matrix, and classification reports to determine which algorithm performed best.  
+- 📓 [View Notebook on Colab](https://colab.research.google.com/drive/1tPjJTy5_zeeuMmgTn8H139cl7iCWvRkg?usp=sharing)
+
 
 <h3>Thanks for visiting my portfolio! I’m passionate about turning data into actionable knowledge.</h3>
